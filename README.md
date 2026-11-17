@@ -58,3 +58,17 @@ All 12 test cases were executed in Postman. The assertions passed against the re
 ## Skills Demonstrated
 
 REST API testing, Postman, HTTP methods, status codes, JSON validation, JavaScript assertions, negative testing, response headers, and basic performance checks.
+
+## Visual Evidence
+
+### Postman Collection Overview
+
+![Postman Collection Overview](postman-collection-overview.png)
+
+### Schema Validation Results
+
+![Schema Validation Results](schema-validation-results.png)
+
+### Authentication Testing Results
+
+![Authentication Testing Results](authentication-testing-results.png)
